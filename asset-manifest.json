@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SO-JIMM/nicked_names/static/css/main.6823d014.css",
+    "main.js": "/SO-JIMM/nicked_names/static/js/main.2a6b57b2.js",
+    "static/js/787.ce899bfb.chunk.js": "/SO-JIMM/nicked_names/static/js/787.ce899bfb.chunk.js",
+    "index.html": "/SO-JIMM/nicked_names/index.html",
+    "main.6823d014.css.map": "/SO-JIMM/nicked_names/static/css/main.6823d014.css.map",
+    "main.2a6b57b2.js.map": "/SO-JIMM/nicked_names/static/js/main.2a6b57b2.js.map",
+    "787.ce899bfb.chunk.js.map": "/SO-JIMM/nicked_names/static/js/787.ce899bfb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6823d014.css",
+    "static/js/main.2a6b57b2.js"
+  ]
+}
