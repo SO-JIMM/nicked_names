@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -8,17 +7,9 @@
   justify-content: center;
 }
 
-.App__Body {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-button {
-  padding: 0.5rem 0.25rem;
+.App__Grid {
+  display: grid;
+  grid-template-rows: 55px 200px 120px 55px;
+  max-width: 335px;
+  width: 100%;
 }
